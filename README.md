@@ -43,6 +43,16 @@ The dataset contains daily air quality data from multiple cities, including poll
 - Classification Accuracy: ~80%
 - Strong influence of PM2.5 on AQI
 
+## 📸 Visualizations
+### Correlation Heatmap
+![Heatmap](images/heatmap.png)
+### Feature Importance
+![Feature Importance](images/feature.png)
+### Confusion Matrix
+![Confusion Matrix](images/confusion.png)
+### Model Comparison
+![Model Comparison](images/model.png)
+
 ## Key Insights
 - AQI shows seasonal variation with higher levels in winter
 - Particulate matter has a greater impact than gaseous pollutants
